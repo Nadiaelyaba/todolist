@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      <h1>Bonjour React 👋</h1>
+      <h1>Bonjour 👋</h1>
      <state/>
     </div>
   )
